@@ -1,2 +1,2 @@
 # Object Oriented Programming Tic-Tac-Toe
-Create with constructor/prototype and ES6 Class patterns with bonus version.
+Create with constructor/prototype, ES6 Class, Objects Linking Other Objects (OLOO) patterns and  bonus version.
